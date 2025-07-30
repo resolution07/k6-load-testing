@@ -1,0 +1,7 @@
+/.idea
+
+/configs
+/tests
+
+!./configs/sample-conf.js
+!./tests/sample-test.js
